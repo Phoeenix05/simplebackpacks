@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"github.phoeenix05.simplebackpacks.SimpleBackpacksDataGenerator"
+		],
+		"modmenu": [
+			"github.phoeenix05.simplebackpacks.SimpleBackpacksModMenu"
 		]
 	},
 	"mixins": [
