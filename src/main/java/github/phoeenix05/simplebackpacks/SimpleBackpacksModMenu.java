@@ -12,9 +12,9 @@ public class SimpleBackpacksModMenu implements ModMenuApi {
         return parent -> {
             ConfigBuilder builder = ConfigBuilder.create()
                     .setParentScreen(parent)
-                    .setTitle(Text.translatable("config.title.simplebackpacks"));
+                    .setTitle(Text.translatable("title.simplebackpacks"));
 
-            ConfigCategory general = builder.getOrCreateCategory(Text.translatable("config.category.simplebackpacks.general"));
+            ConfigCategory general = builder.getOrCreateCategory(Text.translatable("category.simplebackpacks.general"));
 
             return builder.build();
         };

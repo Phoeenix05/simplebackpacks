@@ -1,5 +1,7 @@
 {
-  "config.title.simplebackpacks": "Simple Backpacks",
-  "config.category.simplebackpacks.general": "General",
-  "item.simplebackpacks.leather_backpack": "Leather Backpack"
+  "title.simplebackpacks": "Simple Backpacks",
+  "category.simplebackpacks.general": "General",
+  "itemGroup.simplebackpacks": "Simple Backpacks",
+  "item.simplebackpacks.leather_backpack": "Leather Backpack",
+  "item.simplebackpacks.small_leather_backpack": "Small Leather Backpack"
 }
