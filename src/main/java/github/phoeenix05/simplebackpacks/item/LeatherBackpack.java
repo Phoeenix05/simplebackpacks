@@ -49,7 +49,7 @@ public class LeatherBackpack extends Item implements Inventory {
 
     @Override
     public boolean canPlayerUse(PlayerEntity player) {
-        player.openHandledScreen()
+        // player.openHandledScreen()
         return true;
     }
 
