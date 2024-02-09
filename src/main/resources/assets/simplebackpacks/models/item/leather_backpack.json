@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "simplebackpacks:item/leather_backpack_1",
 		"2": "simplebackpacks:item/leather_backpack_2",
-		"3": "simplebackpacks:item/leather_backpack_3"
+		"3": "simplebackpacks:item/leather_backpack_buckle"
 	},
 	"elements": [
 		{
